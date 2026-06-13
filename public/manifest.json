@@ -1,0 +1,27 @@
+{
+  "name": "MeetingScribe Pro",
+  "short_name": "MeetingScribe",
+  "description": "AI meeting notes and action item tracker.",
+  "start_url": "/meetingscribe-pro/",
+  "scope": "/meetingscribe-pro/",
+  "display": "standalone",
+  "background_color": "#080f08",
+  "theme_color": "#22c55e",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/meetingscribe-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/meetingscribe-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
